@@ -1,2 +1,2 @@
 # react-library-ops
- spotify clone
+ spotify clone built using React. was too lazy to change the folder name so...
