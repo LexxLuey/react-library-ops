@@ -23,7 +23,7 @@ function App() {
       
       {
         token ? (
-          <h1>Enter the place</h1>
+          <h1>Enter into the place</h1>
         ) : (
           <Login />
         )
