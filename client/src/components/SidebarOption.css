@@ -1,0 +1,11 @@
+.sidebarOption {
+    color: thistle;
+    height: 40px;
+    cursor: pointer;
+    transition: 200ms color ease-in;
+    padding-left: 15px;
+}
+
+.sidebarOption:hover {
+    color: white;
+}
