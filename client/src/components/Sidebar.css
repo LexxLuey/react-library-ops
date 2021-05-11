@@ -11,8 +11,15 @@
 }
 
 .sidebar_logo {
-    height: 70px;
-    width: 210px;
+    height: 60px;
+    width: 170px;
     padding: 10px;
     margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.sidebar_title {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
 }
